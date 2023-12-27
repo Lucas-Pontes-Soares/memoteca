@@ -2,21 +2,15 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que vc veio",
+      "conteudo": "O errado não se torna certo mesmo todo mundo esteja fazendo",
       "autoria": "Lucao",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "bom",
-      "autoria": "Lucao1",
+      "conteudo": "O que é certo é certo, mesmo que ninguém faça",
+      "autoria": "Lucao",
       "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Que",
-      "autoria": "Lucao2",
-      "modelo": "modelo3"
     }
   ]
 }

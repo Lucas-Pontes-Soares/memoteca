@@ -4,48 +4,56 @@
       "id": 1,
       "conteudo": "O errado não se torna certo mesmo todo mundo esteja fazendo",
       "autoria": "Lucao",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "O que é certo é certo, mesmo que ninguém faça",
       "autoria": "Lucao",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 3
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "Aprendendo Angularaa",
       "autoria": "Devaa",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 8
     }
   ]
